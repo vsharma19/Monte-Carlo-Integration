@@ -1,0 +1,4 @@
+﻿  hw5.cpp
+c:\users\vin1s\documents\visual studio 2015\projects\hw5\hw5\hw5.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hw5.vcxproj -> C:\Users\vin1s\documents\visual studio 2015\Projects\hw5\Debug\hw5.exe
+  hw5.vcxproj -> C:\Users\vin1s\documents\visual studio 2015\Projects\hw5\Debug\hw5.pdb (Full PDB)
